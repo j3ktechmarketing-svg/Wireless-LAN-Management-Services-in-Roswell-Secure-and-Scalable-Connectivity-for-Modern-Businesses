@@ -18,9 +18,9 @@ Reliable wireless systems also help healthcare providers reduce downtime and mai
 
 ## Key Healthcare Wireless Services
 
-• Secure healthcare wireless connectivity solutions
-• Wireless access point monitoring for clinics
-• Healthcare Wi-Fi security management
+- Secure healthcare wireless connectivity solutions
+- Wireless access point monitoring for clinics
+- Healthcare Wi-Fi security management
 • Cloud-managed medical wireless infrastructure
 • 24/7 healthcare wireless network monitoring
 • Secure guest Wi-Fi solutions for patients
